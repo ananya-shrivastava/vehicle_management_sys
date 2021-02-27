@@ -1,1 +1,1 @@
-# vehicle_management_sys
+Incorporated Bus, Route and Employee Management module. Administrator has the authority to view/update. User can place or cancel a request for a bus based on distance of the route and fare charged. Frontend - Java Backend - Oracle
